@@ -205,7 +205,6 @@ public class MainActivity extends AppCompatActivity {
 
                 @Override
                 public void onSurfaceTextureSizeChanged(SurfaceTexture surface, int width, int height) {
-
                 }
 
                 @Override
